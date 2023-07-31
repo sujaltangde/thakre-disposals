@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Thali",
+        "image":"/images/products/thali.jpg"
+    },
+    
+    {
+        "name":"Chai Glass 55 ml",
+        "image":"/images/products/chaiglass.jpg"
+    },
+    {
+        "name":"Green Plate",
+        "image":"/images/products/greenplate.jpg"
+    },
+    {
+        "name":"Kadi Glass 200 ml",
+        "image":"/images/products/kadiglass.jpg"
+    },
+    {
+        "name":"Dona - 6,7,8 inch",
+        "image":"/images/products/dona.jpg"
+    },
+    {
+        "name":"Pani Glass 210 ml",
+        "image":"/images/products/paniglass2.jpg"
+    },
+    {
+        "name":"Nasta Plate",
+        "image":"/images/products/nastaplate.jpg"
+    },
+    {
+        "name":"Kadi Glass",
+        "image":"/images/products/kadiglass2.jpg"
+    },
+    {
+        "name":"Chai Glass 65 ml",
+        "image":"/images/products/chaiglass2.jpg"
+    },
+    {
+        "name":"Pani Glass 300 ml",
+        "image":"/images/products/paniglass.jpg"
+    },
+    {
+        "name":"Buffet Plate",
+        "image":"/images/products/buffetplate.jpg"
+    }
+]
